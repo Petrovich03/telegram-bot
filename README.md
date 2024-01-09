@@ -1,4 +1,7 @@
-# telegram-bot
-Telegram bot with chatgpt-3.5 model
+# Telegram Bot
+___
+Телеграм бот с подключенным chatgpt-3.5 model
 
-*To use the bot you will receive a **token BotFather***
+**Использование:**
++ Перед началом использования получите свой токен в *BotFather*
++ Добавьте токен в строку *TOKEN* и запустите сервер.
